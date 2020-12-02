@@ -39,9 +39,9 @@ void localtime(){
 //show main menu
 void menu(){
     cout << endl;
-    cout << "Enter ls to check all recorded due day." << endl;
-    cout << "Enter cd to check how much time left for every due day." << endl;
-    cout << "Enter md to edit due day." << endl;
+    cout << "Enter ls to check all recorded due dates." << endl;
+    cout << "Enter cd to check how much time left for every due date." << endl;
+    cout << "Enter md to edit due date." << endl;
     cout << "Enter e to exit." << endl;
 }
 
